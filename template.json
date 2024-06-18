@@ -1,6 +1,6 @@
 {
     "setting": {
-        "exp_name": "best",
+        "exp_name": "template",
         "dataset": "pems04",
         "model": "SpoTMamba",
         "in_steps": 12,

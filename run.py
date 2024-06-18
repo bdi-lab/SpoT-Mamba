@@ -9,7 +9,7 @@ from utils.utils import ExpLogParser
 def get_arguments():
     
     parser = argparse.ArgumentParser()
-    parser.add_argument('--config_path', type=str, default='./configs/template.json')
+    parser.add_argument('--config_path', type=str, default='./template.json')
     args = vars(parser.parse_args())
     
     return args
