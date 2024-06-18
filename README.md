@@ -67,7 +67,7 @@ The list of arguments of the configuration file:
                 "Epochs after which the learning rate will decay."
             ],
             "epochs": "Total number of training epochs.",
-            "valid_epoch": "Frequency of epochs after which the validation is performed.",
+            "valid_epoch": "Number of epochs between each validation.",
             "patience": "Number of epochs to wait before early stopping if no progress on the validation set.",
             "batch_size": "Size of the batches used during training.",
             "lr": "Initial learning rate for training.",
