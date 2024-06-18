@@ -1,0 +1,39 @@
+{
+    "setting": {
+        "exp_name": "template",
+        "dataset": "pems04",
+        "model": "SpoTMamba",
+        "in_steps": 12,
+        "out_steps": 12,
+        "train_ratio": 60,
+        "val_ratio": 20,
+        "seed": 11
+    },
+    "hyperparameter": {
+        "model": {
+            "emb_dim": 32,
+            "ff_dim": 256,
+            "num_walks": 2,
+            "len_walk": 20,
+            "num_layers": 3,
+            "dropout": 0.1
+        },
+        "training": {
+            "lr_decay_rate": 0.5,
+            "milestones": [
+                20,
+                40,
+                60
+            ],
+            "epochs": 300,
+            "valid_epoch": 1,
+            "patience": 20,
+            "batch_size": 32,
+            "lr": 0.001,
+            "weight_decay": 0.001
+        }
+    },
+    "cuda_id": 0,
+    "force_retrain": false,
+    "exp_num": 0
+}
