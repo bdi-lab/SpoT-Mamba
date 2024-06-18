@@ -122,8 +122,8 @@ We tuned SpoT-Mamba with the following tuning ranges:
 
 ### `trained_models`
 - `pems04-60-11-SpoTMamba_best.json`: JSON file containing the best model configuration.
-- `pems04-60-11-SpoTMamba_best.log`: Log file with training and validation details.
-- `pems04-60-11-SpoTMamba_best.pickle`: Pickle file containing the checkpoint of the trained model.
+- `pems04-60-11-SpoTMamba_best.log`: Experiment log file of the best model.
+- `pems04-60-11-SpoTMamba_best.pickle`: Pickle file containing the checkpoint of the best trained model.
 
 ### `utils`
 - `constants.py`: Defines constants used across the project.
