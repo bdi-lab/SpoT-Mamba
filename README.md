@@ -7,7 +7,7 @@ All codes are written by Jinhyeok Choi (cjh0507@kaist.ac.kr). When you use this 
 
 ```bibtex
 @article{spotmamba,
-  author={Jinhyeok Choi, Heehyeon Kim, Minhyeong An, and Joyce Jiyoung Whang},
+  author={Jinhyeok Choi and Heehyeon Kim and Minhyeong An and Joyce Jiyoung Whang},
   title={SpoT-Mamba: Learning Long-Range Dependency on Spatio-Temporal Graphs with Selective State Spaces},
   year={2024},
   journal={arXiv preprint arXiv.2406.11244},
