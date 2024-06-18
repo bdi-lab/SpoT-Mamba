@@ -34,6 +34,5 @@
         }
     },
     "cuda_id": 0,
-    "force_retrain": false,
-    "exp_num": 0
+    "force_retrain": false
 }
