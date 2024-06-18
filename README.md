@@ -128,5 +128,5 @@ We tuned SpoT-Mamba with the following tuning ranges:
 ### `utils`
 - `constants.py`: Defines constants used across the project.
 - `metrics.py`: Contains metrics for evaluating model performance.
-- `utils.py`: Helper functions used throughout the project.
+- `utils.py`: Contains helper functions used throughout the project.
 
