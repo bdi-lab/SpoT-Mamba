@@ -11,7 +11,7 @@ All codes are written by Jinhyeok Choi (cjh0507@kaist.ac.kr). When you use this 
   title={{S}po{T}-{M}amba: Learning Long-Range Dependency on Spatio-Temporal Graphs with Selective State Spaces},
   year={2024},
   journal={arXiv preprint arXiv.2406.11244},
-  doi = {10.48550/arXiv.2406.11244}
+  doi={10.48550/arXiv.2406.11244}
 }
 ```
 
